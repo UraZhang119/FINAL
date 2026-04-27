@@ -1,0 +1,74 @@
+[
+  {
+    "guid": "sample-35",
+    "sentence1": "Muntii Carpati sunt in Europa.",
+    "sentence2": "Un telefon are ecran tactil.",
+    "label": 3
+  },
+  {
+    "guid": "sample-43",
+    "sentence1": "Soarele rasare dimineata.",
+    "sentence2": "Un compozitor a scris o simfonie.",
+    "label": 3
+  },
+  {
+    "guid": "sample-3",
+    "sentence1": "Bucuresti este capitala Romaniei.",
+    "sentence2": "Un avion a aterizat la Paris.",
+    "label": 3
+  },
+  {
+    "guid": "sample-55",
+    "sentence1": "Soarele rasare dimineata.",
+    "sentence2": "Un compozitor a scris o simfonie.",
+    "label": 3
+  },
+  {
+    "guid": "sample-54",
+    "sentence1": "Cercetatorii au publicat un articol.",
+    "sentence2": "Articolul descrie un experiment.",
+    "label": 2
+  },
+  {
+    "guid": "sample-19",
+    "sentence1": "Soarele rasare dimineata.",
+    "sentence2": "Un compozitor a scris o simfonie.",
+    "label": 3
+  },
+  {
+    "guid": "sample-37",
+    "sentence1": "Masina este rosie.",
+    "sentence2": "Masina este albastra.",
+    "label": 1
+  },
+  {
+    "guid": "sample-8",
+    "sentence1": "Femeia conduce bicicleta.",
+    "sentence2": "O persoana merge pe bicicleta.",
+    "label": 0
+  },
+  {
+    "guid": "sample-48",
+    "sentence1": "Pisica doarme pe canapea.",
+    "sentence2": "Animalul este pe canapea.",
+    "label": 0
+  },
+  {
+    "guid": "sample-51",
+    "sentence1": "Bucuresti este capitala Romaniei.",
+    "sentence2": "Un avion a aterizat la Paris.",
+    "label": 3
+  },
+  {
+    "guid": "sample-32",
+    "sentence1": "Femeia conduce bicicleta.",
+    "sentence2": "O persoana merge pe bicicleta.",
+    "label": 0
+  },
+  {
+    "guid": "sample-38",
+    "sentence1": "Studentul citeste o carte.",
+    "sentence2": "Studentul studiaza.",
+    "label": 2
+  }
+]

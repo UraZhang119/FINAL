@@ -1,0 +1,218 @@
+[
+  {
+    "guid": "sample-52",
+    "sentence1": "Copilul mananca un mar.",
+    "sentence2": "Copilul consuma fructe.",
+    "label": 0
+  },
+  {
+    "guid": "sample-30",
+    "sentence1": "Cercetatorii au publicat un articol.",
+    "sentence2": "Articolul descrie un experiment.",
+    "label": 2
+  },
+  {
+    "guid": "sample-14",
+    "sentence1": "Studentul citeste o carte.",
+    "sentence2": "Studentul studiaza.",
+    "label": 2
+  },
+  {
+    "guid": "sample-17",
+    "sentence1": "Echipa a castigat meciul.",
+    "sentence2": "Echipa a pierdut meciul.",
+    "label": 1
+  },
+  {
+    "guid": "sample-22",
+    "sentence1": "Profesorul explica lectia.",
+    "sentence2": "Elevii asculta in clasa.",
+    "label": 2
+  },
+  {
+    "guid": "sample-10",
+    "sentence1": "Profesorul explica lectia.",
+    "sentence2": "Elevii asculta in clasa.",
+    "label": 2
+  },
+  {
+    "guid": "sample-40",
+    "sentence1": "Copilul mananca un mar.",
+    "sentence2": "Copilul consuma fructe.",
+    "label": 0
+  },
+  {
+    "guid": "sample-57",
+    "sentence1": "Apa fierbe la 100 de grade Celsius.",
+    "sentence2": "Apa ingheata la 100 de grade Celsius.",
+    "label": 1
+  },
+  {
+    "guid": "sample-0",
+    "sentence1": "Pisica doarme pe canapea.",
+    "sentence2": "Animalul este pe canapea.",
+    "label": 0
+  },
+  {
+    "guid": "sample-56",
+    "sentence1": "Femeia conduce bicicleta.",
+    "sentence2": "O persoana merge pe bicicleta.",
+    "label": 0
+  },
+  {
+    "guid": "sample-49",
+    "sentence1": "Masina este rosie.",
+    "sentence2": "Masina este albastra.",
+    "label": 1
+  },
+  {
+    "guid": "sample-26",
+    "sentence1": "Studentul citeste o carte.",
+    "sentence2": "Studentul studiaza.",
+    "label": 2
+  },
+  {
+    "guid": "sample-59",
+    "sentence1": "Muntii Carpati sunt in Europa.",
+    "sentence2": "Un telefon are ecran tactil.",
+    "label": 3
+  },
+  {
+    "guid": "sample-12",
+    "sentence1": "Pisica doarme pe canapea.",
+    "sentence2": "Animalul este pe canapea.",
+    "label": 0
+  },
+  {
+    "guid": "sample-2",
+    "sentence1": "Studentul citeste o carte.",
+    "sentence2": "Studentul studiaza.",
+    "label": 2
+  },
+  {
+    "guid": "sample-16",
+    "sentence1": "Copilul mananca un mar.",
+    "sentence2": "Copilul consuma fructe.",
+    "label": 0
+  },
+  {
+    "guid": "sample-34",
+    "sentence1": "Profesorul explica lectia.",
+    "sentence2": "Elevii asculta in clasa.",
+    "label": 2
+  },
+  {
+    "guid": "sample-4",
+    "sentence1": "Copilul mananca un mar.",
+    "sentence2": "Copilul consuma fructe.",
+    "label": 0
+  },
+  {
+    "guid": "sample-24",
+    "sentence1": "Pisica doarme pe canapea.",
+    "sentence2": "Animalul este pe canapea.",
+    "label": 0
+  },
+  {
+    "guid": "sample-20",
+    "sentence1": "Femeia conduce bicicleta.",
+    "sentence2": "O persoana merge pe bicicleta.",
+    "label": 0
+  },
+  {
+    "guid": "sample-42",
+    "sentence1": "Cercetatorii au publicat un articol.",
+    "sentence2": "Articolul descrie un experiment.",
+    "label": 2
+  },
+  {
+    "guid": "sample-1",
+    "sentence1": "Masina este rosie.",
+    "sentence2": "Masina este albastra.",
+    "label": 1
+  },
+  {
+    "guid": "sample-6",
+    "sentence1": "Cercetatorii au publicat un articol.",
+    "sentence2": "Articolul descrie un experiment.",
+    "label": 2
+  },
+  {
+    "guid": "sample-39",
+    "sentence1": "Bucuresti este capitala Romaniei.",
+    "sentence2": "Un avion a aterizat la Paris.",
+    "label": 3
+  },
+  {
+    "guid": "sample-18",
+    "sentence1": "Cercetatorii au publicat un articol.",
+    "sentence2": "Articolul descrie un experiment.",
+    "label": 2
+  },
+  {
+    "guid": "sample-21",
+    "sentence1": "Apa fierbe la 100 de grade Celsius.",
+    "sentence2": "Apa ingheata la 100 de grade Celsius.",
+    "label": 1
+  },
+  {
+    "guid": "sample-31",
+    "sentence1": "Soarele rasare dimineata.",
+    "sentence2": "Un compozitor a scris o simfonie.",
+    "label": 3
+  },
+  {
+    "guid": "sample-28",
+    "sentence1": "Copilul mananca un mar.",
+    "sentence2": "Copilul consuma fructe.",
+    "label": 0
+  },
+  {
+    "guid": "sample-25",
+    "sentence1": "Masina este rosie.",
+    "sentence2": "Masina este albastra.",
+    "label": 1
+  },
+  {
+    "guid": "sample-11",
+    "sentence1": "Muntii Carpati sunt in Europa.",
+    "sentence2": "Un telefon are ecran tactil.",
+    "label": 3
+  },
+  {
+    "guid": "sample-46",
+    "sentence1": "Profesorul explica lectia.",
+    "sentence2": "Elevii asculta in clasa.",
+    "label": 2
+  },
+  {
+    "guid": "sample-9",
+    "sentence1": "Apa fierbe la 100 de grade Celsius.",
+    "sentence2": "Apa ingheata la 100 de grade Celsius.",
+    "label": 1
+  },
+  {
+    "guid": "sample-44",
+    "sentence1": "Femeia conduce bicicleta.",
+    "sentence2": "O persoana merge pe bicicleta.",
+    "label": 0
+  },
+  {
+    "guid": "sample-50",
+    "sentence1": "Studentul citeste o carte.",
+    "sentence2": "Studentul studiaza.",
+    "label": 2
+  },
+  {
+    "guid": "sample-36",
+    "sentence1": "Pisica doarme pe canapea.",
+    "sentence2": "Animalul este pe canapea.",
+    "label": 0
+  },
+  {
+    "guid": "sample-41",
+    "sentence1": "Echipa a castigat meciul.",
+    "sentence2": "Echipa a pierdut meciul.",
+    "label": 1
+  }
+]

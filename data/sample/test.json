@@ -1,0 +1,74 @@
+[
+  {
+    "guid": "sample-27",
+    "sentence1": "Bucuresti este capitala Romaniei.",
+    "sentence2": "Un avion a aterizat la Paris.",
+    "label": 3
+  },
+  {
+    "guid": "sample-29",
+    "sentence1": "Echipa a castigat meciul.",
+    "sentence2": "Echipa a pierdut meciul.",
+    "label": 1
+  },
+  {
+    "guid": "sample-58",
+    "sentence1": "Profesorul explica lectia.",
+    "sentence2": "Elevii asculta in clasa.",
+    "label": 2
+  },
+  {
+    "guid": "sample-13",
+    "sentence1": "Masina este rosie.",
+    "sentence2": "Masina este albastra.",
+    "label": 1
+  },
+  {
+    "guid": "sample-33",
+    "sentence1": "Apa fierbe la 100 de grade Celsius.",
+    "sentence2": "Apa ingheata la 100 de grade Celsius.",
+    "label": 1
+  },
+  {
+    "guid": "sample-5",
+    "sentence1": "Echipa a castigat meciul.",
+    "sentence2": "Echipa a pierdut meciul.",
+    "label": 1
+  },
+  {
+    "guid": "sample-15",
+    "sentence1": "Bucuresti este capitala Romaniei.",
+    "sentence2": "Un avion a aterizat la Paris.",
+    "label": 3
+  },
+  {
+    "guid": "sample-23",
+    "sentence1": "Muntii Carpati sunt in Europa.",
+    "sentence2": "Un telefon are ecran tactil.",
+    "label": 3
+  },
+  {
+    "guid": "sample-47",
+    "sentence1": "Muntii Carpati sunt in Europa.",
+    "sentence2": "Un telefon are ecran tactil.",
+    "label": 3
+  },
+  {
+    "guid": "sample-53",
+    "sentence1": "Echipa a castigat meciul.",
+    "sentence2": "Echipa a pierdut meciul.",
+    "label": 1
+  },
+  {
+    "guid": "sample-45",
+    "sentence1": "Apa fierbe la 100 de grade Celsius.",
+    "sentence2": "Apa ingheata la 100 de grade Celsius.",
+    "label": 1
+  },
+  {
+    "guid": "sample-7",
+    "sentence1": "Soarele rasare dimineata.",
+    "sentence2": "Un compozitor a scris o simfonie.",
+    "label": 3
+  }
+]
